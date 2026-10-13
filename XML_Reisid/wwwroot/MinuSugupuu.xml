@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/css" href="xmlStyle.css"?>
+<!--jada-->
+<inimene synd="1949">
+	<nimi>Galina</nimi>
+	<lapsed>
+		<inimene synd="1980">
+			<nimi>Jüri</nimi>
+			<lapsed>
+				<inimene synd="2007">
+					<nimi>Adriana</nimi>
+				</inimene>
+			</lapsed>
+		</inimene>
+		<inimene synd="1975">
+			<nimi>Aleksandr</nimi>
+			<lapsed>
+				<inimene synd="2014">
+					<nimi>Sander</nimi>
+				</inimene>
+			</lapsed>
+		</inimene>
+		<inimene synd="1985">
+			<nimi>Julia</nimi>
+			<lapsed>
+				<inimene synd="2009">
+					<nimi>Jonell</nimi>
+				</inimene>
+				<inimene synd="2018">
+					<nimi>Jonette</nimi>
+				</inimene>
+			</lapsed>
+		</inimene>
+	</lapsed>
+</inimene>

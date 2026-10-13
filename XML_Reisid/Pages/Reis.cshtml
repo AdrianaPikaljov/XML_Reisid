@@ -1,0 +1,10 @@
+@page
+@model XML_Reisid.Pages.ReisModel
+@{
+    ViewData["Title"] = "XML reisimine";
+}
+
+<h2>XML reisimine</h2>
+<div class="row">
+    @Html.Raw(Model.TransformedXml)
+</div>

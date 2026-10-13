@@ -1,0 +1,10 @@
+@page
+@model XML_Reisid.Pages.MinuModel
+@{
+    ViewData["Title"] = "Minu sugupuu";
+}
+
+<h2>Minu sugupuu</h2>
+<div class="row">
+    @Html.Raw(Model.TransformedXml)
+</div>
